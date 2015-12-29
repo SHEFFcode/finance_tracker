@@ -2,4 +2,4 @@
 
 This application will allow users to track up to 10 stocks and see what stockes other people are tracking.
 
-SHEFFcode 2015&copy; 
+SHEFFcode 2015
